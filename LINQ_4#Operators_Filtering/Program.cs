@@ -12,7 +12,7 @@ namespace Gbarska.Course.Linq
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("LINQ Projection Operators!");
+      Console.WriteLine("LINQ Filtering Operators!");
 
       //filter only evenNumbers.
       Console.WriteLine(GetFilteringExample().ToJsonString());

@@ -1,0 +1,9 @@
+.vscode/*
+bin/
+obj/
+*.db
+appsettings.json
+**/bin/Debug/
+**/bin/Release/
+Debug/
+Release/

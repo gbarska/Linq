@@ -12,7 +12,7 @@ namespace Gbarska.Course.Linq
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("LINQ Projection Operators!");
+      Console.WriteLine("LINQ Sorting Operators!");
 
       //create extension method ToCsv & ordering asc
       Console.WriteLine(GetOrderByExample().ToCsvString());
