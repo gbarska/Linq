@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2+J3a8K2xhM8SaG42XDsaLy0ksMhscin9VgdZNyZMgsBk22bOn8bFVGC9ty2dK06jHZMMFoFRTivV0T29JeSw==",
+  "success": true,
+  "projectFilePath": "/media/gbarska/5f3da657-4056-4a22-90e4-d66a6cb9aa29/Github/NETCORE/LINQ/LINQ_#Operators_Projection_Select_SelectMany/LINQ_#Operators_Projection_Select_SelectMany.csproj",
+  "expectedPackageFiles": [
+    "/home/gbarska/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

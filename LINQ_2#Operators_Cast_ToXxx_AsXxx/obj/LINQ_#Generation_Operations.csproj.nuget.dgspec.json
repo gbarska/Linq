@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/gbarska/5f3da657-4056-4a22-90e4-d66a6cb9aa29/Github/NETCORE/LINQ/LINQ_#Generation_Operations/LINQ_#Generation_Operations.csproj": {}
+  },
+  "projects": {
+    "/media/gbarska/5f3da657-4056-4a22-90e4-d66a6cb9aa29/Github/NETCORE/LINQ/LINQ_#Generation_Operations/LINQ_#Generation_Operations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/gbarska/5f3da657-4056-4a22-90e4-d66a6cb9aa29/Github/NETCORE/LINQ/LINQ_#Generation_Operations/LINQ_#Generation_Operations.csproj",
+        "projectName": "LINQ_#Generation_Operations",
+        "projectPath": "/media/gbarska/5f3da657-4056-4a22-90e4-d66a6cb9aa29/Github/NETCORE/LINQ/LINQ_#Generation_Operations/LINQ_#Generation_Operations.csproj",
+        "packagesPath": "/home/gbarska/.nuget/packages/",
+        "outputPath": "/media/gbarska/5f3da657-4056-4a22-90e4-d66a6cb9aa29/Github/NETCORE/LINQ/LINQ_#Generation_Operations/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gbarska/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

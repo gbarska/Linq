@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x2rL7EmfFMFhsr9K/juL6anirIfYTbyyPh9yCdpUlIdwQN9nt4eWdbEZEEkGNciz+rP6r5Vtx8mr2yn/4rovvg==",
+  "success": true,
+  "projectFilePath": "/media/gbarska/5f3da657-4056-4a22-90e4-d66a6cb9aa29/Github/NETCORE/LINQ/LINQ_#Generation_Operations/LINQ_#Generation_Operations.csproj",
+  "expectedPackageFiles": [
+    "/home/gbarska/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
